@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a graduated software engineer who loves coding and is always fascinated by the latest tech. I find real joy in solving tricky problems and creating smart solutions. The ever-changing world of technology never ceases to amaze me, and I'm constantly eager to learn about new advancements. I'm committed to improve my coding skills and staying up-to-date with the latest trends in software engineering world.
+
 <!--
 **Velis1/velis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
