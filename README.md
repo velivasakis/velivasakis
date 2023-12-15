@@ -4,7 +4,7 @@ I'm a graduated software engineer who loves coding and is always fascinated by t
 
 Technologies used:
 <img src="https://github.com/velivasakis/velivasakis/assets/95940577/a8791df0-1fec-4eb1-bfba-32af8bdabf22" width="25" height="25">
-![JavaScript-logo](https://github.com/velivasakis/velivasakis/assets/95940577/a8791df0-1fec-4eb1-bfba-32af8bdabf22 = 25x25) ![HTML5_logo_and_wordmark svg](https://github.com/velivasakis/velivasakis/assets/95940577/3b28db4d-bf22-4a97-86d8-1210d9b364b7 = 25x25)
+<img src="https://github.com/velivasakis/velivasakis/assets/95940577/3b28db4d-bf22-4a97-86d8-1210d9b364b7" width="25" height="25">
 <!--
 **Velis1/velis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
